@@ -37,9 +37,6 @@ I love building scalable web applications, exploring new technologies, and solvi
 
 ---
 
-![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andreafusella&show_icons=true&theme=radical)
-
-
 ## 🌐 Connect with me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/andrea-fusella/)  
