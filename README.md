@@ -7,28 +7,39 @@ I love building scalable web applications, exploring new technologies, and solvi
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Java, JavaScript, TypeScript, SQL  
-- **Frameworks & Libraries:** Spring Boot, Hibernate, React, React Native  
-- **Databases:** MySQL, PostgreSQL  
-- **Tools & Platforms:** Docker, Git, GitHub, Nginx  
-- **Other skills:** CSS, REST APIs, Agile methodologies  
+### 👨‍💻 Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
+</p>
 
----
+### 🚀 Frameworks & Libraries
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="40" height="40"/>
+</p>
 
-## 📂 Featured Projects
+### 🗄️ Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+</p>
 
-Here are some of my main projects (click to explore):
-
-1. [Project 1 - Title](#)  
-2. [Project 2 - Title](#)  
-3. [Project 3 - Title](#)  
-4. [Project 4 - Title](#)  
-5. [Project 5 - Title](#)  
-6. [Project 6 - Title](#)  
-7. [Project 7 - Title](#)  
-8. [Project 8 - Title](#)  
-9. [Project 9 - Title](#)  
-10. [Project 10 - Title](#)  
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios/50/000000/swagger.png" width="40" height="40" alt="swagger"/>
+  <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
