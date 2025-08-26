@@ -1,16 +1,19 @@
-## Hi there 👋
+# Ciao, sono Andrea 👋
 
-<!--
-**Andreafusella/Andreafusella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Sviluppatore backend (Java, Spring Boot) e frontend (React, TypeScript).  
+🚀 Mi piace lavorare su progetti di gestione, automazione e app web complete.  
 
-Here are some ideas to get you started:
+## 🔧 Tecnologie principali
+- Java, Spring Boot, PostgreSQL
+- React, TypeScript, TailwindCSS
+- Docker, GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Statistiche
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrea123&show_icons=true&theme=tokyonight)
+
+## 📌 Progetti principali
+- [🌞 Gestionale Spiaggia](https://github.com/andrea123/spiaggia-app)  
+- [🍽️ Chalet Menu Manager](https://github.com/andrea123/chalet-menu)  
+
+---
+✉️ [Contattami su LinkedIn](https://www.linkedin.com/in/andrea123/)
