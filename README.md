@@ -40,7 +40,7 @@ I love building scalable web applications, exploring new technologies, and solvi
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreafusella&layout=compact&theme=tokyonight&hide_border=true)
 
-## 🌐 Connect with me
+## 🌐 Connect with me and you
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/andrea-fusella/)  
 - 📧 Email: **andrea55fusellagmail.com**  
