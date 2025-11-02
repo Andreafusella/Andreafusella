@@ -42,13 +42,10 @@ I love building scalable web applications, exploring new technologies, and solvi
 <div align="center">
 
 <!-- GitHub Stats Card -->
-![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrea-fusella&show_icons=true&theme=tokyonight&hide_border=true)
+![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andreafusella&show_icons=true&theme=tokyonight&hide_border=true)
 
 <!-- Top Languages Card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrea-fusella&layout=compact&theme=tokyonight&hide_border=true)
-
-<!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andrea-fusella&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreafusella&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
