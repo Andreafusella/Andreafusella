@@ -38,16 +38,7 @@ I love building scalable web applications, exploring new technologies, and solvi
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- GitHub Stats Card -->
-![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andreafusella&show_icons=true&theme=tokyonight&hide_border=true)
-
-<!-- Top Languages Card -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreafusella&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ## 🌐 Connect with me
 
