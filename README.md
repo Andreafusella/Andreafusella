@@ -1,4 +1,4 @@
-# Hi there, I'm Andrea Fusella 👋xzxz
+# Hi there, I'm Andrea Fusella 👋
 
 🚀 Passionate **Full-Stack Developer** specialized in **Java, Spring Boot, React, and databases**.  
 I love building scalable web applications, exploring new technologies, and solving challenging problems.  
