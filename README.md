@@ -43,6 +43,6 @@ I love building scalable web applications, exploring new technologies, and solvi
 ## 🌐 Connect with me 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/andrea-fusella/)  
-- 📧 Email: **andrea55fusellagmail.com**
+- 📧 Email: **andrea55fusella@gmail.com**
 
 ---
