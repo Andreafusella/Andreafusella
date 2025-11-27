@@ -2,7 +2,7 @@
 
 🚀 Passionate **Full-Stack Developer** specialized in **Java, Spring Boot, React, React Native and databases**.  
 I love building scalable web applications, exploring new technologies, and solving challenging problems.  
-
+xzxzx
 ---
 
 ## 🛠️ Tech Stack
