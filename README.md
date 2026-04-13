@@ -6,7 +6,7 @@ I love building scalable web applications, exploring new technologies, and solvi
 ---
 
 ## 🛠️ Tech Stack
-  
+
 ### 👨‍💻 Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
